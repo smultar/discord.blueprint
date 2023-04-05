@@ -1,0 +1,24 @@
+{
+  "name": "discord.blueprint",
+  "version": "1.0.0",
+  "description": "Discord bot template that's a part of my new Enceladus standard.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smultar/discord.blueprint.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "discord-js"
+  ],
+  "author": "smultar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smultar/discord.blueprint/issues"
+  },
+  "homepage": "https://github.com/smultar/discord.blueprint#readme"
+}
