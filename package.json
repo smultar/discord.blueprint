@@ -23,6 +23,7 @@
   "homepage": "https://github.com/smultar/discord.blueprint#readme",
   "dependencies": {
     "@discordjs/rest": "^1.7.0",
+    "colors": "^1.4.0",
     "discord.js": "^14.9.0",
     "dotenv": "^16.0.3",
     "snowflake-id": "^1.1.0"
