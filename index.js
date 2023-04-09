@@ -62,7 +62,7 @@ const Client = async (config, events, commands) => {
             presence: {
                 activities: [
                     {
-                        name: 'Discord.blueprint',
+                        name: 'with discord.blueprint',
                         type: ActivityType.Playing
                     }
                 ],
